@@ -1,0 +1,6 @@
+{
+  "passed": true,
+  "runs_repeated": 12,
+  "max_numeric_difference": 0.0,
+  "scope": "Same machine, same installed environment; elapsed times excluded"
+}

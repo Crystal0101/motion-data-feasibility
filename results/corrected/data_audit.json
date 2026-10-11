@@ -1,0 +1,77 @@
+{
+  "recordings_read": 861,
+  "subjects_read": [
+    "S01",
+    "S02",
+    "S03",
+    "S04",
+    "S06",
+    "S07",
+    "S08",
+    "S09",
+    "S11",
+    "S12",
+    "S13",
+    "S14",
+    "S16",
+    "S17",
+    "S18",
+    "S19",
+    "S21",
+    "S22",
+    "S23",
+    "S24",
+    "S26",
+    "S27",
+    "S28",
+    "S29",
+    "S31",
+    "S32",
+    "S33",
+    "S34",
+    "S36",
+    "S37",
+    "S38",
+    "S39"
+  ],
+  "heldout_payloads_opened": 0,
+  "absent_index_slots": 47715,
+  "empty_payloads": 0,
+  "task": "one prediction per recording; exploratory development",
+  "splits": {
+    "train": {
+      "recordings": 646,
+      "shape": [
+        646,
+        30,
+        27
+      ],
+      "constant_pooled_dimensions": [],
+      "column_mean_variation": [
+        0.1555551141500473,
+        0.14491796493530273,
+        0.1519887000322342,
+        0.18841908872127533,
+        0.0944763571023941
+      ],
+      "sha256": "951c5e5ad913c272b22f32dd48125248b303963df4f0234f34d03fc7bb29454b"
+    },
+    "development": {
+      "recordings": 215,
+      "shape": [
+        215,
+        30,
+        27
+      ],
+      "constant_pooled_dimensions": [],
+      "column_mean_variation": [
+        0.16373063623905182,
+        0.15247409045696259,
+        0.15202856063842773,
+        0.1980896294116974,
+        0.09495159983634949
+      ],
+      "sha256": "f51022a017b109b28b1f86b87e5ea7f8119e364a9ce36528ec1d62d56f96c1fe"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "reference_runs": 12,
+  "noise_runs": 30,
+  "curve_rows": 9030,
+  "independently_retrained_noise_endpoints": 30,
+  "max_endpoint_error": 0.0,
+  "source_hashes_verified": true,
+  "test_payloads_opened": 0,
+  "scope": "Same-machine development reproducibility; not independent subject confirmation"
+}
