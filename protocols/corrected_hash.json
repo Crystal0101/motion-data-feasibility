@@ -1,0 +1,10 @@
+{
+  "protocols/corrected_development.md": "0f6b738b9e7102da6c73a9149bb45e75d3834edadc80db9c177d902e4566e04e",
+  "src/corrected_data.py": "98c826bf4152edba05d1e16d69971b15d3d3cff66d103157c57cf3daf42d7516",
+  "src/corrected_models.py": "928ea7c8cd0df45d4088d828d2d3a076b6795aa001f420ed76a124e840fe85c0",
+  "src/corrected_private.py": "18743492167120423e1dcd5c2d50ab1b18f559330f1113214f7dfcbb073f7b32",
+  "src/corrected_account.py": "3345f559345328b45ee36eac44bbc51c94ce26e3dfc00b27638bf2c7019fd5b4",
+  "clarification": "Public methods extract prepared after the experiments; original pre-fit protocol SHA256 b227ecff9b21ee8372a29431671c918f8a695fe76d6f2e0f2cdc9f41983ac3ca. Experimental design, training code and budget are unchanged.",
+  "recorded_at": "2026-10-11T16:55:27.350209+08:00",
+  "protocols/corrected_budget.json": "37fb0cc01ec07768041932452fc2c65debe359520bf557b22cbe64ec32c40dbf"
+}
